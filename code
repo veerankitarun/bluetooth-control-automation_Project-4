@@ -21,7 +21,7 @@ int socket_state=0;
 
 void setup(){             //start of the function
 
- Serial.begin(9600);   //micro controller is very fast so to see the results you need to set baudrate 9.6sec=9600millisecs
+ Serial.begin(9600);   //micro controller is very fast so to see the results you need to set baudrate 9.6sec=9.6khz
  pinMode(lamp1,OUTPUT);  //define the inputs and outputs of micro controller
  pinMode(lamp2,OUTPUT);
  pinMode(lamp3,OUTPUT);
