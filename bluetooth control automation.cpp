@@ -1,11 +1,12 @@
 int lamp1=2;    // defining the integer value for you device it may be any device like lamp, pc, etc. here lamp1 would be 2
-int lamp2=3;    // defining the integer value for you device it may be any device like lamp, pc, etc. here lamp2 would be 3
-int lamp3=4;    //defining the integer value for you device it may be any device like lamp, pc, etc. here lamp3 would be 4
-int music=5;   //defining the integer value for you device it may be any device like lamp, pc, etc. here music would be 5
-int pc=6;      //defining the integer value for you device it may be any device like lamp, pc, etc. here pc would be 6
-int mobile=7;  //defining the integer value for you device it may be any device like lamp, pc, etc. here mobile would be 7
-int fan=8;      //defining the integer value for you device it may be any device like lamp, pc, etc. here fan would be 8
-int socket=9;    //defining the integer value for you device it may be any device like lamp, pc, etc. here socket would be 9
+int lamp2=3;    // same goes on
+int lamp3=4;    
+int music=5;   
+int pc=6;      
+int mobile=7; 
+int fan=8;      
+int socket=9;    
+
 
 int Received=0;
 int lamp1_state=0;
